@@ -17,7 +17,7 @@ O sistema opera em uma arquitetura de três camadas:
 
 ## 🚀 Acesso à Aplicação
 A aplicação está 100% hospedada na nuvem e pode ser acessada de qualquer navegador. 
-👉 **[Clique aqui para acessar o Motor de Auditoria ao vivo](COLOQUE_SEU_LINK_AQUI)**
+👉 **[Clique aqui para acessar o Motor de Auditoria ao vivo](https://motor-auditoria-ia.streamlit.app/)**
 
 ## 🛠️ Como Executar Localmente (Para Desenvolvedores)
 Caso queira rodar o código na sua própria máquina:
